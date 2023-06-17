@@ -1,0 +1,292 @@
+/* responsive css */ 
+
+
+@media (max-width: 991px) {
+
+	.header {
+		height: 115vh;
+	}
+
+	.header .navbar .navbar-nav .nav-item .btn-success {
+    	margin: 8px 0px 0px 20px;
+	}
+
+	.banner {
+		padding: 40px 0px;
+	}
+
+	.inner-banner {
+    	margin: 30px 25px 50px;
+	}
+
+	.inner-banner h1 {
+    	font-size: 48px;
+	}
+
+	.inner-banner .btn-success {
+    	margin: 20px 0px 0px;
+	}
+
+	.feature {
+    	padding: 60px 0px;
+	}
+
+	.inner-feature {
+		padding: 40px;
+    	margin: 10px 20px 10px 0px;
+	}
+
+	.courses {
+		padding: 30px 0px 30px;
+	}
+
+	.courses h3 {
+		font-size: 36px;
+		margin: 0px 0px 25px;
+	}
+
+	.courses .card {
+    	margin: 10px 20px 10px;
+	}
+
+	.testimonial {
+		padding: 60px 0px;
+	}
+
+	.testimonial h5 {
+		font-size: 32px;
+		margin: 0px 0px 20px;
+	}
+
+	.testimonial p {
+	    font-size: 14px;
+	    margin: 20px 0px 0px 15px;
+	}
+
+	.footer .copyright {
+    	margin: 5px 0px 10px 0px;
+	}
+
+	.footer {
+		padding: 60px 0px 10px;
+	}
+
+	.footer .widget {
+		padding: 0px 0px 30px;
+	}
+
+	.footer p {
+		margin: 0px 0px 32px 30px;
+	}
+
+	.footer h6 {
+		margin-left: 30px;
+	}	
+
+}
+
+
+
+
+@media (max-width: 767px) {
+
+	.header {
+		height: 100vh;
+	}
+
+	.header .navbar .navbar-nav .nav-item .btn-success {
+    	margin: 8px 0px 0px 20px;
+	}
+
+	.banner {
+		padding: 40px 0px;
+	}
+
+	.inner-banner {
+    	margin: 30px 25px 50px;
+	}
+
+	.inner-banner h4 {
+    	font-size: 18px;
+    	margin: 0px 0px 15px;
+	}
+
+	.inner-banner h1 {
+    	font-size: 42px;
+    	margin: 0px 0px 15px;
+	}
+
+	.inner-banner .btn-success {
+    	margin: 20px 0px 0px;
+	}
+
+	.inner-banner p {
+    	font-size: 14px;
+    	margin: 0px 0px 15px;
+	}
+
+	.feature {
+    	padding: 60px 0px;
+	}
+
+	.inner-feature {
+		padding: 40px;
+    	margin: 10px 20px 10px 0px;
+	}
+
+	.courses {
+		padding: 30px 0px 30px;
+	}
+
+	.courses h3 {
+		font-size: 32px;
+		margin: 0px 0px 20px;
+	}
+
+	.courses .card {
+    	margin: 10px 20px 10px;
+	}
+
+	.courses .card .card-body .card-title {
+	    font-size: 24px;
+	}
+
+	.courses .card .card-body .btn-success {
+    	margin: 0px 0px 20px;
+	}
+
+	.testimonial {
+		padding: 60px 0px;
+	}
+
+	.testimonial h5 {
+		font-size: 32px;
+		margin: 0px 0px 20px;
+	}
+
+	.client-img {
+		width: 100px;
+		height: 100px;
+
+	}
+
+	.testimonial p {
+	    font-size: 12px;
+	    margin: 8px 0px 0px 15px;
+	}
+
+	.footer .copyright {
+    	margin: 5px 0px 10px 0px;
+	}
+
+	.footer {
+		padding: 60px 0px 10px;
+	}
+
+	.footer .widget {
+		padding: 0px 0px 30px;
+	}
+
+	.footer p {
+		margin: 0px 0px 32px 30px;
+	}
+
+	.footer h6 {
+		margin-left: 30px;
+	}
+}
+
+
+
+@media (max-width: 575px) {
+
+	.header {
+		height: 100vh;
+	}
+
+	.header .navbar .navbar-nav .nav-item .btn-success {
+    	margin: 8px 0px 0px 20px;
+	}
+
+	.banner {
+		padding: 40px 0px;
+	}
+
+	.inner-banner {
+    	margin: 30px 25px 50px;
+	}
+
+	.inner-banner h4 {
+    	font-size: 18px;
+    	margin: 0px 0px 15px;
+	}
+
+	.inner-banner h1 {
+    	font-size: 42px;
+    	margin: 0px 0px 15px;
+	}
+
+	.inner-banner .btn-success {
+    	margin: 20px 0px 0px;
+	}
+
+	.inner-banner p {
+    	font-size: 14px;
+    	margin: 0px 0px 15px;
+	}
+
+	.feature {
+    	padding: 60px 0px;
+	}
+
+	.inner-feature {
+		padding: 40px;
+    	margin: 10px 20px 10px 0px;
+	}
+
+	.courses {
+		padding: 30px 0px 30px;
+	}
+
+	.courses h3 {
+		font-size: 32px;
+		margin: 0px 0px 20px;
+	}
+
+	.courses .card {
+    	margin: 10px 20px 10px;
+	}
+
+	.courses .card .card-body .card-title {
+	    font-size: 24px;
+	}
+
+	.courses .card .card-body .btn-success {
+    	margin: 0px 0px 20px;
+	}
+
+	.testimonial {
+		padding: 60px 0px;
+	}
+
+	.testimonial h5 {
+		font-size: 32px;
+		margin: 0px 0px 20px;
+	}
+
+	.client-img {
+		width: 100px;
+		height: 100px;
+
+	}
+
+	.testimonial p {
+	    font-size: 12px;
+	    margin: 8px 0px 0px 15px;
+	}
+
+	.footer .copyright {
+    	margin: 5px 0px 10px 0px;
+	}
+
+}
